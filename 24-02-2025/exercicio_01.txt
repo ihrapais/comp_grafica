@@ -1,0 +1,8 @@
+
+EXERCÍCIO 01: em Python para Collab
+
+Desenvolva um programa que leia pelo teclado os valores x, y e z de um vetor de 3 dimensões. Em seguida, apresente ao usuário um menu com as seguintes opções:
+
+a) Calcular o tamanho do vetor; b) Normalizar o vetor, apresentando o vetor resultante da normalização; c) Adicionar outro vetor ao que foi lido anteriormente, lendo os valores x, y e z deste novo vetor; d) Subtrair outro vetor ao que foi lido anteriormente, lendo os valores x, y e z deste novo vetor; e) Ler o valor de um escalar e realizar a multiplicação do mesmo pelo vetor, mostrando o vetor resultante; f) Ler o valor de um escalar e realizar a divisão do mesmo pelo vetor, mostrando o vetor resultante; g) Calcular o produto escalar do vetor lido anteriormente por outro vetor, lendo os valores x, y e z deste novo vetor e mostrando o resultado na tela.
+
+OBS: Utilize as fórmulas que foram apresentadas nos slides para a realização dos exercícios. Não aconselhável utilizar classes para o momento.
