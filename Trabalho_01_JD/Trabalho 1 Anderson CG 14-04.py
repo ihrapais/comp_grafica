@@ -3,6 +3,10 @@ from pygame.locals import *
 from OpenGL.GL import *
 from OpenGL.GLU import *
 
+# Anderson Schieck Lopes
+# Trabalho 01 de Computação Gráfica JD
+# 14/04/2025
+
 # Constantes para teclas
 KEY_UP = K_w
 KEY_DOWN = K_s
