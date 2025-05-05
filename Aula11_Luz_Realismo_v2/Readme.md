@@ -68,4 +68,6 @@ Ao executar o projeto, a cena 3D incluirá:
 - A lâmpada foi posicionada mais alto (Y=8.0) para melhor distribuição da luz
 - A intensidade da iluminação foi aumentada para melhor visualização dos efeitos de reflexão
 
+  ---
+
 ---
